@@ -61,7 +61,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-- Adnan Boudjelal - aboudjel@student.42.fr
+- Adnan Boudjelal - aboudjel@student.42.fr [LinkedIn(https://www.linkedin.com/in/adnan-boudjelal-07b709216/)
 - Ludivine Novillo - lunovill@student.42.fr
 
 Thank you for checking out CrossPong. We hope it brings you as much fun as it brought us in making it!
