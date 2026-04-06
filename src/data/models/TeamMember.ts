@@ -21,7 +21,7 @@ export const memberInfosTab: memberInfo[] = [
         title: 'Developer',
         name: '02—Ludivine Novillo',
         avatar: 'images/teamPhotos/ludi.png',
-        role: 'GAMEPLAY IMPLEMENTATION / 3D INTEGRATION /  GAME MECHANICS  / FRONTEND SUPPORT',
+        role: 'BACKEND DEVELOPMENT / GAMEPLAY IMPLEMENTATION / NETWORK SYSTEM / GAME MECHANICS',
         linkedin: 'https://www.linkedin.com/',
         github: 'https://github.com/lunovill'
     },
