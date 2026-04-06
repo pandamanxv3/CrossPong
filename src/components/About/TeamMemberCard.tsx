@@ -83,12 +83,12 @@ const TeamMemberCard = (props: Props) => {
                     {renderStyledText(role, "/")}
                 </Role>
             </Container>
-            <Icon src={"UI/linkedinIcon.png"} onClick={handleClickLinkedin} />
+            {/* <Icon src={"UI/linkedinIcon.png"} onClick={handleClickLinkedin} />
             {props.member.github
                 && <Icon src={"UI/githubIcon.png"} onClick={handleClickGithub} />
             }
             {props.member.artStation
-                && <Icon src={"UI/artstationIcon.png"} onClick={handleClickArtStation} />}
+                && <Icon src={"UI/artstationIcon.png"} onClick={handleClickArtStation} />} */}
         </>;
 }
 
